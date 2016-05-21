@@ -45,3 +45,5 @@ Temporary Items
 /.classpath
 /.project
 /target
+.idea/
+spring-websocket-redis.iml
